@@ -1,0 +1,68 @@
+.bd-h1{
+    margin-left:34%;
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.bd-1stcontainer{
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bd-figure{
+    width:220px;
+}
+.bd-h12{
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left:auto;
+}
+.bd-coverimage{
+    width:700px;
+    margin-right:0;
+}
+
+/* .features .img {
+    width: 50px;
+    height: 50px;
+    background: #7752BE;
+    border-radius: 19px;
+    text-align: center;
+} */
+.fa-unlock-keyhole{
+    color:white;
+    background-color: orange;
+    padding:17px;
+    border-radius: 7px;
+}
+.fa-truck-fast{
+    color:white;
+    background-color: rgb(69, 52, 69);
+    padding:17px;
+    border-radius: 7px;
+}
+.fa-heart{
+    color:white;
+    background-color: red;
+    padding:17px;
+    border-radius: 7px;
+}
+.bd-key{
+    margin-left:0px;
+    margin-top: 5px;
+}
+b{
+    color:black;
+    font-size:larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.bd-parttwo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:rgb(233, 228, 228);
+}
+.btn, .btn-danger{
+    background-color:rgb(34, 65, 34);
+    border-color:rgb(34, 65, 34);
+    margin-left: 550px;
+}
+
+

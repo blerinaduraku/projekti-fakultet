@@ -1,0 +1,81 @@
+ul li{
+    display: inline;
+}
+.bd-selections{
+    color: rgb(164, 71, 45);
+    font-size: 16.5px;
+    background-color: #fdf7f7;
+    box-shadow: 0px 9px 11px 0px rgba(0,0,0,0.2); 
+    padding: 2px 3px;
+    /* CHANGE THE FONT FAMILY */
+}
+.bd-countries{
+    margin-left: 800px;
+}
+a{
+    text-decoration: none;
+    color: rgb(152, 116, 105); 
+}
+li{
+    padding: 20px;
+}
+  ul, h1{
+    display: inline-block;
+    margin-left: 20px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bd-sale{
+    background-color: rgb(43, 60, 60);
+    margin:0;
+    padding-bottom: 380px;
+}
+body{
+    margin-left:0px;
+    margin-right: 0px; 
+    margin-bottom:0px;
+    color: rgb(152, 116, 105); 
+
+}
+.bd-heading2{
+   font-size: 40px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   position: absolute;
+   padding-left: 480px;
+   margin-top:135px;
+}
+h3{
+    font-size: 25px;
+    margin-left: 550px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 35px;
+}
+
+a:hover{
+    color:rgb(184, 144, 110);
+    text-decoration: none;
+}
+.bd-h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    margin-bottom: 90px;
+}
+.bd-table1{   
+    margin-top: 0%;
+    margin-right: 5%;
+    margin-bottom: 0%;
+    margin-left: 30%;
+    border-collapse: separate;
+    border-spacing: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bd-part2{
+    background-color: rgb(43, 60, 60);
+}
+.bd-container2, figure, article{
+ justify-content: center;
+
+}
+figure{ 
+    display: inline-flex;
+}
+.bd-230{width:230px;}

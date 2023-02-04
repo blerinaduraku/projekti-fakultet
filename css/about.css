@@ -1,0 +1,93 @@
+.nav-item, .nav-link,.active, .navbar-nav a{
+    text-decoration: none;
+} 
+body{
+font-size:14px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+background-color: lightgrey;
+overflow-x: hidden;
+}
+ul, li{
+    display:block;
+}
+
+.fa-box{
+    color:white;
+    background-color: rgb(52, 102, 102);
+    padding:30px 25px;
+}
+.bd-ul{
+position:relative;
+float:left;
+}
+.fa-truck, .fa-sharp, .fa-solid, .fa-location-dot{
+    color:white;
+    background-color: rgb(52, 102, 102);
+    padding:30px 25px;
+}
+.bd-blue{
+    padding:130px;
+    background-color: rgb(52, 102, 102);
+}
+/* CLEARING THE FLOAT */
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+.bd-theinput{
+    padding:10px 300px 10px 0;
+    margin-left:33%;
+}
+.bd-textarea{
+    padding:7px 180px 7px 0;
+    margin-left: 33%;
+}
+.bd-paragraph{
+    margin-left:48%;
+}
+.bd-thebutton{
+    margin-left:48%;
+    background-color: rgb(52, 102, 102);
+    border-color: rgb(52, 102, 102);
+    color:aliceblue;
+    border-radius: 4px;
+    padding: 5px 20px;
+}
+/* Homepage*/
+.bd-table1{   
+    margin-top: 0%;
+    margin-right: 5%;
+    margin-bottom: 0%;
+    margin-left: 30%;
+    border-collapse: separate;
+    border-spacing: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bd-h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    margin-bottom: 90px;
+}
+a:hover{
+    color:rgb(184, 144, 110);
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(152, 116, 105); 
+}
+.bd-part2{
+    background-color: rgb(43, 60, 60);    color: rgb(152, 116, 105); 
+
+}
+body{
+    margin-left:0px;
+    margin-right: 0px; 
+    margin-bottom:0px;
+
+}
