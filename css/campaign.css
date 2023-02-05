@@ -4,6 +4,7 @@
 }
 body{
     overflow-x:hidden;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     /* the scroll is hidden now */
 }
 .bd-text{
