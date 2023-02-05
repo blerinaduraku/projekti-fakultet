@@ -1,6 +1,9 @@
 ul li{
     display: inline;
 }
+body{
+    overflow-x: hidden;
+}
 .bd-selections{
     color: rgb(164, 71, 45);
     font-size: 16.5px;
@@ -90,7 +93,7 @@ figure{
     float: left;
 }
 /* Responsive */
-@media only screen and (min-width: 360px) and (max-width: 769px) {
+@media only screen and (min-width: 360px) and (max-width: 767px) {
   .bd-listaul, .bd-lii, .bd-li, .bd-aa{
     width:100%;
     display:block;
@@ -111,8 +114,7 @@ figure{
   .bd-sale{
    display: flex;
    flex-direction: column;
-   float: left;
-   width: 100%;
+   width: 767px;
   }
   .bd-sale>div{
     float: left;
