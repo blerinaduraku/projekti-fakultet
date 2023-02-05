@@ -82,3 +82,38 @@ figure{
 .bd-230{
     width:230px;
 }
+/* Responsive */
+@media (min-width: 375px) {
+  .bd-container{
+    width:100%
+  }
+  .bd-listaul, .bd-lii, .bd-li, .bd-aa{
+    width:100%;
+    display:block;
+    font-size:50px;
+  }
+  .bd, .bd-listaul{
+    font-size: 50px;
+    padding-left:0px;
+    margin-left:0px;   
+ }
+ .bd-li, .bd{
+   margin-left:-300px;
+ }
+ .bd-name{
+    font-size: 50px;
+    margin-left:-600px;
+ }
+  .bd-sale{
+   padding:20% 160% 20%;
+  }
+  body{
+    margin:0;
+    padding:0;
+  } 
+  .bd-heading2{
+   font-size:65px;
+   margin-left:-100%;
+   margin-top:-300px;
+}
+ }
