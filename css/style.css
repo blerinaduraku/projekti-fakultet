@@ -90,7 +90,7 @@ figure{
     float: left;
 }
 /* Responsive */
-@media (max-width: 391px) {
+@media only screen and (min-width: 360px) and (max-width: 769px) {
   .bd-listaul, .bd-lii, .bd-li, .bd-aa{
     width:100%;
     display:block;
